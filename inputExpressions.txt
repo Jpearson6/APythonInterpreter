@@ -1,0 +1,4 @@
+#this is a comment
+course = "CS 460"
+print("this is a long message that should print" , course)
+print(2)

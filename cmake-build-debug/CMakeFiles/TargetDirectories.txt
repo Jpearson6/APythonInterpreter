@@ -1,0 +1,3 @@
+/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/CMakeFiles/APythonInterpreter.dir
+/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

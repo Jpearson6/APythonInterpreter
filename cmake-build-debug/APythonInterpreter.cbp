@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="APythonInterpreter"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="APythonInterpreter">
+				<Option output="/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/APythonInterpreter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 APythonInterpreter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="APythonInterpreter/fast">
+				<Option output="/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/APythonInterpreter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 APythonInterpreter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/JuicyJer6/Desktop/APythonInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Expr.cpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Expr.hpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/NumberDescriptor.cpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/NumberDescriptor.hpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Parser.cpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Parser.hpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Statements.cpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Statements.hpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/SymTab.cpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/SymTab.hpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Token.cpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Token.hpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Tokenizer.cpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/Tokenizer.hpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/main.cpp">
+			<Option target="APythonInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/JuicyJer6/Desktop/APythonInterpreter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
